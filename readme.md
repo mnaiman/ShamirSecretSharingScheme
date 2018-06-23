@@ -23,14 +23,8 @@ The text of the secret will be displayed under the field.
 
 # Developing
 
-After making changes, compile to a single page for offline use with:
-
-```
-python compile.py
-```
-
 Pull requests are welcome.
 
 # License
 
-MIT, see [license](https://github.com/iancoleman/shamir/blob/master/license).
+MIT, see [license](https://github.com/mnaiman/ShamirSecretSharingScheme/blob/master/license).
